@@ -1,5 +1,5 @@
 
-https://github.com/nathan-ingram10/kali-docker.git
+git clone https://github.com/nathan-ingram10/kali-docker.git
 
 cd docker-image
 
