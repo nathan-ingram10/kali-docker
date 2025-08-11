@@ -7,6 +7,6 @@ docker build -t kali-mini-os .
 
 docker ps -a
 
-docker images ls
+docker image ls
 
 docker run -it kali-mini-os
